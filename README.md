@@ -20,7 +20,8 @@ Move around file directory:
 
 # adding libraries 
 - (open terminal window )
-```sudo apt-get update 
+```
+sudo apt-get update 
 sudo apt-get -y install python-rpi.gpio
 sudo pip3 install pygame
 ```
