@@ -4,9 +4,9 @@ Code repo for Columbia computer music center raspberry pi workshop nov 2024
 
 # terminal commands we will use <br>
 Computer has directory structure, which are just folders in folders etc. <br>
- where are you  currently in the file directory (’pwd’)?<br>
-'pwd' = print working directory
-‘ls’ = list files 
+*where are you  currently in the file directory 
+*'pwd' = print working directory 
+*‘ls’ = list files 
 'ls *.wav' = list all .wav files 
 'ls *.pdf' = list all pdf files in 
 ‘man ls’ = open manual for 'ls' command 
