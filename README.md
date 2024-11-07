@@ -20,10 +20,13 @@ Move around file directory:
 
 # adding python libraries 
 - (open terminal window )
+- ('sudo' = superuser do, allow terminal to perform commands, make changes with root privileges  
 ```
-sudo apt-get update 
-sudo apt-get -y install python-rpi.gpio
-sudo pip3 install pygame
+sudo apt-get update # update apt-get
+sudo apt-get -y install python-rpi.gpio # Rpi.gpio for accessing GPIO pins
+sudo pip3 install pygame # pygame for audio output
+sudo pip3 install adafruit-circuitpython-motorkit # for adafruit motor shield
+
 ```
 
 
