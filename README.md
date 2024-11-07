@@ -18,7 +18,7 @@ Move around file directory:
 - 'touch myfile.txt' = create a file called myfile.txt
 - 'nano myfile.txt' = open myfile.txt in the nano code editor in terminal 
 
-# adding libraries 
+# adding python libraries 
 - (open terminal window )
 ```
 sudo apt-get update 
