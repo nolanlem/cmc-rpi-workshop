@@ -2,9 +2,9 @@
 Code repo for Columbia computer music center raspberry pi workshop nov 2024
 
 
-# terminal commands we will use 
-Computer has directory structure, which are just folders in folders etc.
- where are you  currently in the file directory (’pwd’)?
+# terminal commands we will use <br>
+Computer has directory structure, which are just folders in folders etc. <br>
+ where are you  currently in the file directory (’pwd’)?<br>
 'pwd' = print working directory
 ‘ls’ = list files 
 'ls *.wav' = list all .wav files 
